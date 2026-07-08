@@ -1,150 +1,51 @@
 ```markdown
-# ¡Hola! 👋 Soy Keity Paola Moscoso Miranda
+# ¡Hola!  Soy Keity Paola Moscoso Miranda
 
-<div align="center">
+ Estudiante de Ingeniería del Software en la Universidad Técnica Nacional (UTN), Costa Rica 🇨🇷
 
-### 💻 Estudiante de Ingeniería del Software | Desarrollador Full Stack | Apasionado por la tecnología
+ Me apasiona el desarrollo de software y disfruto crear aplicaciones web completas, participando tanto en el backend como en el frontend. Siempre busco escribir código limpio, aprender nuevas tecnologías y mejorar continuamente mis habilidades.
 
-*"Siempre aprendiendo, siempre construyendo."*
-
-</div>
+ Actualmente estoy fortaleciendo mis conocimientos en React, ASP.NET Core, Node.js, arquitectura de software, bases de datos y buenas prácticas de desarrollo colaborativo.
 
 ---
 
-## 🚀 Sobre mí
+###  Tecnologías
 
-Soy estudiante de **Ingeniería del Software** en Costa Rica y me apasiona desarrollar aplicaciones que solucionen problemas reales.
+**Backend**
 
-Disfruto aprender nuevas tecnologías, entender cómo funcionan las cosas por dentro y enfrentar desafíos que me permitan crecer tanto personal como profesionalmente.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-Me gusta trabajar en proyectos donde pueda participar tanto en el **backend** como en el **frontend**, además de involucrarme en bases de datos, arquitectura de software y experiencia de usuario.
+**Frontend**
 
-Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo web moderno, buenas prácticas de programación y diseño de aplicaciones escalables.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
----
+**Bases de Datos**
 
-# 🛠️ Tecnologías que utilizo
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 👨‍💻 Lenguajes
+**Herramientas**
 
-- C#
-- JavaScript
-- Java
-- SQL
-- HTML
-- CSS
-
----
-
-## ⚙️ Backend
-
-- ASP.NET Core
-- Node.js
-- Express.js
-- Entity Framework Core
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🎨 Frontend
+###  Sobre mí
 
-- React
-- Vite
-- Tailwind CSS
-- HTML5
-- CSS3
+Me gusta trabajar en equipo y participar en todas las etapas del desarrollo de software: análisis, diseño, desarrollo, pruebas y mejora continua. Considero que cada proyecto representa una oportunidad para aprender algo nuevo y seguir creciendo como desarrollador.
 
 ---
 
-## 🗄️ Bases de datos
-
-- SQL Server
-- MySQL
-- MongoDB
-
----
-
-## 🔧 Herramientas
-
-- Git
-- GitHub
-- Docker
-- Visual Studio
-- Visual Studio Code
-- SQL Server Management Studio
-
----
-
-# 📚 Actualmente estoy aprendiendo
-
-- Arquitectura de Software
-- React Avanzado
-- Patrones de Diseño
-- Clean Code
-- DevOps
-- Computación en la Nube
-- Inglés (objetivo: nivel C1)
-
----
-
-# 📂 Algunos proyectos
-
-🔹 Sistema de Gestión de Tickets (React + Node.js)
-
-🔹 Plataforma de Subastas de Joyas (ASP.NET Core MVC)
-
-🔹 Sistema de Gestión para Clínica de Optometría
-
-🔹 Aplicaciones de escritorio con C#
-
-🔹 APIs REST
-
-🔹 Proyectos académicos enfocados en arquitectura y bases de datos
-
----
-
-# 🎯 Objetivos
-
-- Seguir creciendo como desarrollador Full Stack.
-- Participar en proyectos cada vez más grandes.
-- Contribuir a proyectos Open Source.
-- Aprender nuevas tecnologías constantemente.
-- Obtener experiencia profesional desarrollando software de calidad.
-
----
-
-# 📈 Estadísticas
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💡 Mi filosofía
-
-> *"Nunca dejo de aprender. Cada proyecto es una oportunidad para mejorar como desarrollador y como persona."*
-
----
-
-# 📫 Contacto
-
-📍 Costa Rica 🇨🇷
-
-💼 LinkedIn: https://linkedin.com/in/tu-perfil
-
-📧 Correo: tu_correo@ejemplo.com
-
----
-
-<div align="center">
-
-### ¡Gracias por visitar mi perfil!
-
-⭐ Si alguno de mis proyectos te resulta interesante, no dudes en darle una estrella.
-
-</div>
+ ¡Gracias por visitar mi perfil!
 ```
